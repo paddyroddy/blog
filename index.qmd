@@ -1,0 +1,22 @@
+---
+title: Blog
+format: html
+listing:
+  contents:
+    - .
+    - author: Patrick J. Roddy
+      date: 2024-06-03
+      path: https://www.pyopensci.org/blog/sleplet-slepian-wavelets
+      subtitle: pyOpenSci
+      title: "SLEPLET: Slepian Scale-Discretised Wavelets in Python"
+  date-format: iso
+  exclude:
+    title: Page Not Found
+  fields:
+    - date
+    - subtitle
+    - title
+  page-size: 10
+  sort: date desc
+  type: table
+---

@@ -1,0 +1,20 @@
+---
+project:
+  type: website
+
+format:
+  html:
+    theme: cyborg
+
+website:
+  google-analytics: G-10HF14FJHM
+  favicon: /assets/images/favicon.ico
+  navbar:
+    tools:
+      - icon: house
+        href: https://paddyroddy.github.io
+        target: _blank
+      - icon: github
+        href: https://github.com/paddyroddy/blog
+        target: _blank
+  title: ""

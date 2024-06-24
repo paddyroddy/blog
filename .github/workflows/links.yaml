@@ -1,0 +1,19 @@
+---
+name: Links
+
+on:
+  push:
+    branches:
+      - main
+      - renovate/**
+  pull_request:
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2
+    steps:
+      # yamllint disable-line rule:line-length
+      - uses: paddyroddy/.github/actions/links@69431c4ec1e375c5fe5f8fa96ae1e05f371d8326 # v0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
