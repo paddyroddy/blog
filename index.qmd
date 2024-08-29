@@ -16,8 +16,9 @@ listing:
     title: Page Not Found
   fields:
     - date
-    - subtitle
     - title
+    - subtitle
+    - author
   page-size: 10
   sort: date desc
   type: table
