@@ -1,10 +1,12 @@
 ---
 title: Blog
-format: html
+format:
+  html:
+    page-layout: full
 listing:
   contents:
     - .
-    - author: Patrick J. Roddy
+    - author: "[Patrick J. Roddy](https://paddyroddy.github.io)"
       date: 2024-06-03
       path: https://www.pyopensci.org/blog/sleplet-slepian-wavelets
       subtitle: pyOpenSci
@@ -12,10 +14,13 @@ listing:
   date-format: iso
   exclude:
     title: Page Not Found
+  field-display-names:
+    subtitle: Source
   fields:
     - date
-    - subtitle
     - title
+    - subtitle
+    - author
   page-size: 10
   sort: date desc
   type: table

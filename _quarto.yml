@@ -13,8 +13,6 @@ website:
     tools:
       - icon: house
         href: https://paddyroddy.github.io
-        target: _blank
       - icon: github
         href: https://github.com/paddyroddy/blog
-        target: _blank
   title: ""
