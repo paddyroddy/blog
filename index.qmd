@@ -14,6 +14,8 @@ listing:
   date-format: iso
   exclude:
     title: Page Not Found
+  field-display-names: 
+    subtitle: Source
   fields:
     - date
     - title
