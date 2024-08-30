@@ -4,8 +4,7 @@ format: html
 listing:
   contents:
     - .
-    - author: "[Patrick J. Roddy](https://paddyroddy.github.io)"
-      date: 2024-06-03
+    - date: 2024-06-03
       path: https://www.pyopensci.org/blog/sleplet-slepian-wavelets
       title: "SLEPLET: Slepian Scale-Discretised Wavelets in Python"
   date-format: iso
@@ -14,7 +13,6 @@ listing:
   fields:
     - date
     - title
-    - author
   page-size: 10
   sort: date desc
   type: table
