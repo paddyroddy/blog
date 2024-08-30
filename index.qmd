@@ -1,8 +1,6 @@
 ---
 title: Blog
-format:
-  html:
-    page-layout: full
+format: html
 listing:
   contents:
     - .
