@@ -8,7 +8,7 @@ format:
 
 website:
   google-analytics: G-10HF14FJHM
-  favicon: /assets/images/favicon.ico
+  favicon: favicon.ico
   navbar:
     tools:
       - icon: house
