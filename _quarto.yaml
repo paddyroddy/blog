@@ -7,7 +7,9 @@ format:
     theme: cyborg
 
 website:
-  google-analytics: G-10HF14FJHM
+  google-analytics:
+    storage: none
+    tracking-id: G-10HF14FJHM
   favicon: favicon.ico
   navbar:
     tools:
