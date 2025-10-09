@@ -7,14 +7,33 @@ listing:
   contents:
     - .
     - date: 2024-06-03
+      author: Patrick J. Roddy
       path: https://www.pyopensci.org/blog/sleplet-slepian-wavelets
+      subtitle: "[pyOpenSci](https://www.pyopensci.org)"
       title: "SLEPLET: Slepian Scale-Discretised Wavelets in Python"
+    - date: 2025-09-25
+      author:
+        - "[Robert Chisholm](https://github.com/robadob)"
+        - Patrick J. Roddy
+        - "[Connor Aird](https://github.com/connoraird)"
+        - "[Daniel Cummins](https://github.com/dc2917)"
+        - "[Andrew Gait](https://github.com/andrewgait)"
+        - "[Jason Klebes](https://github.com/jklebes)"
+        - "[Liam Pattinson](https://github.com/LiamPattinson)"
+      path: https://www.software.ac.uk/blog/code-works-isnt-always-code-lasts
+      subtitle:
+        "[Software Sustainability Institute](https://www.software.ac.uk)"
+      title: Code That Works Isn’t Always Code That Lasts
   date-format: iso
   exclude:
     title: Page Not Found
+  field-display-names:
+    subtitle: Source
   fields:
     - date
     - title
+    - subtitle
+    - author
   page-size: 10
   sort: date desc
   type: table
