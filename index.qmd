@@ -13,9 +13,9 @@ listing:
       title: "SLEPLET: Slepian Scale-Discretised Wavelets in Python"
     - date: 2025-09-25
       author:
+        - "[Robert Chisholm](https://github.com/robadob)"
         - Patrick J. Roddy
         - "[Connor Aird](https://github.com/connoraird)"
-        - "[Robert Chisholm](https://github.com/robadob)"
         - "[Daniel Cummins](https://github.com/dc2917)"
         - "[Andrew Gait](https://github.com/andrewgait)"
         - "[Jason Klebes](https://github.com/jklebes)"
