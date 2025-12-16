@@ -7,9 +7,10 @@ format:
     theme: cyborg
 
 website:
-  google-analytics:
-    storage: none
-    tracking-id: G-10HF14FJHM
+  body-footer:
+    <script async
+    data-goatcounter="https://paddyroddy-blog.goatcounter.com/count"
+    src="//gc.zgo.at/count.js"></script>
   favicon: favicon.ico
   navbar:
     tools:
