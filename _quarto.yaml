@@ -9,7 +9,7 @@ format:
 website:
   body-footer:
     <script async
-    data-goatcounter="https://paddyroddy-talks.goatcounter.com/count"
+    data-goatcounter="https://paddyroddy-blog.goatcounter.com/count"
     src="//gc.zgo.at/count.js"></script>
   favicon: favicon.ico
   navbar:
