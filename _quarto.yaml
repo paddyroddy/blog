@@ -1,6 +1,7 @@
 ---
 project:
-  resources: human.json
+  resources:
+    - human.json
   type: website
 
 format:
