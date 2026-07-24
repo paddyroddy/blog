@@ -19,3 +19,5 @@ jobs:
       - uses: paddyroddy/.github/actions/links@d7ef1ce76b6d02d7e81fe9bb3c22885c6376f986 # v0
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          # yamllint disable-line rule:line-length
+          lychee-args: --no-progress --verbose --base-url https://paddyroddy.github.io .

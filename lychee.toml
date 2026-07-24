@@ -1,5 +1,0 @@
-exclude_path = [
-  # Contains root-relative links (e.g. `/blog/human.json`) that cannot be
-  # resolved without a base URL when lychee checks local files
-  "header.html",
-]
